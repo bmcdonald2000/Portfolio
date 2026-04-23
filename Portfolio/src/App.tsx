@@ -60,7 +60,7 @@ export default function PortfolioSite() {
           >
             <div className="inline-flex items-center gap-2 rounded-full border border-yellow-300/20 bg-yellow-300/10 px-4 py-2 text-sm font-medium text-yellow-200 backdrop-blur">
               <BriefcaseBusiness className="h-4 w-4" />
-              Legal Ops • Innovation • Product Thinking
+              Legal • Tech • Innovation • Product Thinking
             </div>
 
             <h1 className="mt-6 max-w-4xl text-4xl font-bold leading-tight tracking-tight text-white md:text-6xl xl:text-7xl">
